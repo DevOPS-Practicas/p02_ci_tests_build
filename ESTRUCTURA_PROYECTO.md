@@ -143,7 +143,7 @@ Descripción: Aplicación React + TypeScript (creada con Create React App / `rea
 
 ## Cómo ejecutar (resumen rápido)
 
-Nota: revisa `README.md ` para instrucciones específicas. A continuación se muestran formas comunes:
+Nota: revisa `README.md ` para instrucciones específicas. A continuación se muestran formas comunes: 
 
 1) Con Docker Compose (recomendado para reproducibilidad ):
     ```bash
